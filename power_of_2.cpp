@@ -1,0 +1,1 @@
+  //if number of set bit ==1 then return true else return false
