@@ -1,4 +1,4 @@
-
+// first shirft
 #include<bits/stdc++.h>
 using namespace std;
 bool kth_bit_set(int n,int k){
